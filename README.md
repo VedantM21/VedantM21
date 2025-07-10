@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Mayekar</h1>
-<h3 align="center">A 3rd year B.E. student passionate about data science and mobile Android development. 💻</h3>
+<h3 align="center">A B.E. student passionate about data science and mobile Android development. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantm21&label=Profile%20views&color=0e75b6&style=flat" alt="vedantm21" /> </p>
 <h3 align="left">Connect with me:</h3>
